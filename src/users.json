@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Sisely",
+    "email": "smacura0@github.com",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "name": "Tab",
+    "email": "tmussolini1@last.fm",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "name": "Stirling",
+    "email": "ssterzaker2@sciencedirect.com",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "name": "Garek",
+    "email": "gheap3@home.pl",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "name": "Gretta",
+    "email": "gpryor4@mapy.cz",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "name": "Dorry",
+    "email": "dliver5@livejournal.com",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "name": "Blinni",
+    "email": "btruswell6@time.com",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "name": "Dannel",
+    "email": "dbernat7@va.gov",
+    "gender": "Male"
+  },
+  {
+    "id": 9,
+    "name": "Margaux",
+    "email": "mgrooby8@psu.edu",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "name": "Ashlin",
+    "email": "agreeno9@last.fm",
+    "gender": "Male"
+  },
+  {
+    "id": 11,
+    "name": "Gibbie",
+    "email": "grymera@acquirethisname.com",
+    "gender": "Genderfluid"
+  },
+  {
+    "id": 12,
+    "name": "Addie",
+    "email": "akemmishb@bbb.org",
+    "gender": "Non-binary"
+  },
+  {
+    "id": 13,
+    "name": "Gloriana",
+    "email": "gkochlinc@webs.com",
+    "gender": "Female"
+  },
+  {
+    "id": 14,
+    "name": "Aleta",
+    "email": "aforesteld@macromedia.com",
+    "gender": "Female"
+  },
+  {
+    "id": 15,
+    "name": "Tara",
+    "email": "twolfite@1688.com",
+    "gender": "Female"
+  },
+  {
+    "id": 16,
+    "name": "Kippie",
+    "email": "kgirthf@about.me",
+    "gender": "Male"
+  },
+  {
+    "id": 17,
+    "name": "Gypsy",
+    "email": "ghovellg@4shared.com",
+    "gender": "Female"
+  },
+  {
+    "id": 18,
+    "name": "Jacki",
+    "email": "jwalthallh@cnbc.com",
+    "gender": "Female"
+  },
+  {
+    "id": 19,
+    "name": "Nobe",
+    "email": "nklimpkei@mozilla.org",
+    "gender": "Male"
+  },
+  {
+    "id": 20,
+    "name": "Vanny",
+    "email": "vmullarkeyj@nasa.gov",
+    "gender": "Female"
+  }
+]
